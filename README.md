@@ -15,7 +15,7 @@ The **Semantic Knowledge Architect** is a Model Context Protocol (MCP) server th
 
 Sample Notion Pages:
  - [Semantic Graph](https://www.notion.so/Semantic-Graph-33069d17e8088021818bca8c6d8b5152?source=copy_link)
- - [My Projects Database](https://www.notion.so/RF-Style-Tutorial-33069d17e808807cb0f7da3e1529a08f?source=copy_link)
+ - [My Projects Database](https://www.notion.so/33069d17e80880609b46db5eb5998dbd?v=33069d17e80880eb84e7000cababd97c&source=copy_link)
 
 ## 🛠️ MCP Tools Included
 1.  `search_notion`: Find pages or databases by keyword.
